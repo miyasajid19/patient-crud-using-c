@@ -2,7 +2,7 @@ This is the simple patient registration system using c.
 It performs :
   1. registers new patient
   2. displays all pateint details
-  3. searchs for particular patient  based on different keuy
+  3. searchs for particular patient  based on different key
   4. edits the content of patient based on different key
   5. deletes the patients data bases on different key
 
